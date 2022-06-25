@@ -15,3 +15,6 @@ insertionSort(arr);
 console.log(arr);
 
 // Big O = O(n^2)
+
+// in insertion sort we consider the first element to be sorted
+// and compare the rest of the elements with it.
